@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marku/OneDrive/Desktop/a/SS2022/ezs/afgb1/main.cpp
+iostream
+-
+process.h
+C:/Users/marku/OneDrive/Desktop/a/SS2022/ezs/afgb1/process.h
+
+C:/Users/marku/OneDrive/Desktop/a/SS2022/ezs/afgb1/process.h
+stdint-gcc.h
+-
+

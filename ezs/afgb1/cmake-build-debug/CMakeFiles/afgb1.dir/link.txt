@@ -1,0 +1,3 @@
+"D:\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\afgb1.dir/objects.a
+C:\mingw\mingw64\bin\ar.exe cr CMakeFiles\afgb1.dir/objects.a @CMakeFiles\afgb1.dir\objects1.rsp
+C:\mingw\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\afgb1.dir/objects.a -Wl,--no-whole-archive -o afgb1.exe -Wl,--out-implib,libafgb1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\afgb1.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/marku/OneDrive/Desktop/a/SS2022/ezs/afgb1/cmake-build-debug/CMakeFiles/afgb1.dir
+C:/Users/marku/OneDrive/Desktop/a/SS2022/ezs/afgb1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marku/OneDrive/Desktop/a/SS2022/ezs/afgb1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
